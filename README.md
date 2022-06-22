@@ -1,16 +1,31 @@
-# comp2
+## Expirate - User App
 
-A new Flutter project. COMP.202 Project
+Market application that works for zero hunger from sustainability goals using firebase auth, firestore database and storage
 
-## Getting Started
+## Features
+:boom: Expirate app uses both `Firebase Auth` and `firestore` database. :boom:
+* **Home Page** lists the products added by the market.
+* User can see **categories** and **search** products.
+* A **list** can be created and products can be added to the list.
+* Thanks to `Google Maps`, the market address can be seen and directions can be obtained.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+Signin Page                |  Signup Page              |Home Page                  | Categories         
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Sign%20In%20Page.png)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Sign%20Up%20Page.png)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Home%20Page.png)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Categories.png)|
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference. 
+List Page                  | Map                       | Search Page              | Profile Pag                  
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/List%20Page.png)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/map.png)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Search%20Page.png)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Profile%20Page.png)|
+
+## Contributors
+* [Buket Bayık](https://github.com/buketbyk)
+* [Beyza Göncüler](https://github.com/BeyzaGonculer)
+* [Ismayil Allahverdiyev](https://github.com/ismayil-allahverdiyev)
+* [Güleser Kaba](https://github.com/guleserkaba)
+
+
+
+
