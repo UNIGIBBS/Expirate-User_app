@@ -3,6 +3,8 @@
 Market application that works for zero hunger from sustainability goals using firebase auth, firestore database and storage
 
 ## Features
+* For Admin App [Click here](https://github.com/UNIGIBBS/Expirate-Admin_App)
+* 
 :boom: Expirate app uses both `Firebase Auth` and `firestore` database. :boom:
 * **Home Page** lists the products added by the market.
 * User can see **categories** and **search** products.
