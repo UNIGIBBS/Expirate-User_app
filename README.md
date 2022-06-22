@@ -18,7 +18,9 @@ Signin Page                |  Signup Page              |Home Page               
 
 List Page                  | Map                       | Search Page              | Profile Pag                  
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/List%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/map.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Search%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Profile%20Page.png?raw=true)|
+![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/List%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/map.png?raw=true)|<a href="url"><img src="https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Search%20Page.png?raw=true" height="450" width="1150"></a>|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Profile%20Page.png?raw=true)|
+
+
 
 ## Contributors
 * [Buket Bayık](https://github.com/buketbyk)
