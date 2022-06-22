@@ -13,7 +13,7 @@ Market application that works for zero hunger from sustainability goals using fi
 
 Signin Page                |  Signup Page              |Home Page                  | Categories         
 :-------------------------:|:-------------------------:|:------------------:|:-------------------------:
-![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Sign%20In%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Sign%20Up%20Page.png?raw=true)|<a href="url"><img src="https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Home%20Page.png" height="450" width="1200"></a>|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Categories.png?raw=true)|
+![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Sign%20In%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Sign%20Up%20Page.png?raw=true)|<a href="url"><img src="https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Home%20Page.png" height="450" width="1150"></a>|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Categories.png?raw=true)|
 
 
 List Page                  | Map                       | Search Page              | Profile Pag                  
