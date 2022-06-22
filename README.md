@@ -18,11 +18,9 @@ Signin Page                |  Signup Page              |Home Page               
 ![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Sign%20In%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Sign%20Up%20Page.png?raw=true)|<a href="url"><img src="https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Home%20Page.png" height="460" width="1100"></a>|<a href="url"><img src="https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Categories.png?raw=true" height="460" width="1050"></a>|
 
 
-
-
 List Page                  | Map                       | Search Page              | Profile Pag                  
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/List%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/map.png?raw=true)|<a href="url"><img src="https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Search%20Page.png?raw=true" height="450" width="1030"></a>|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Profile%20Page.png?raw=true)|
+![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/List%20Page.png?raw=true)|![](https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/map.png?raw=true)|<a href="url"><img src="https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Search%20Page.png?raw=true" height="450" width="1030"></a>|<a href="url"><img src="https://github.com/UNIGIBBS/Expirate-User_app/blob/master/images/Profile%20Page.png?raw=true" height="460" width="1050"></a>|
 
 
 
